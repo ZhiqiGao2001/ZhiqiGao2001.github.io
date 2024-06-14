@@ -36,11 +36,10 @@ Teaching Experience
 ### COMP SCI 300 — PROGRAMMING II
 *Fall 2023, Spring 2024*
 
-[//]: # (Services)
 
-[//]: # (------)
-
-[//]: # (Reviewer for [ES-FoMo@ICML2024]&#40;https://es-fomo.com/&#41;)
+Services
+======
+Served as a reviewer for [ES-FoMo@ICML2024](https://es-fomo.com/)
 
 Undergraduate Projects
 ======
@@ -54,4 +53,4 @@ Undergraduate Projects
 
 [//]: # (## Miscellaneous)
 
-[//]: # (I was )
+[//]: # (-)
