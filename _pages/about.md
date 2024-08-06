@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year graduate student in CS at the [University of Wisconsin-Madison](https://www.cs.wisc.edu/), advised by [Professor Frederic Sala](https://pages.cs.wisc.edu/~fredsala/). I am also happy to be guided by his senior student [Nicholas Roberts](https://nick11roberts.science/). My research interests include Machine Learning with limited data and foundation models. Before that, I earned my B.S. also at the University of Wisconsin-Madison with a double major in Computer Science & Mathematics.
+I am a second-year graduate student in CS at the [University of Wisconsin-Madison](https://www.cs.wisc.edu/), advised by [Professor Frederic Sala](https://pages.cs.wisc.edu/~fredsala/). I am also happy to be guided by his senior student [Nicholas Roberts](https://nick11roberts.science/). My research interests include Machine Learning with limited data and foundation models. Before that, I earned my B.S. also at the University of Wisconsin-Madison with a double major in Computer Science & Mathematics.
 
 Publications
 ======
@@ -33,13 +33,15 @@ Work Experience
 
 Teaching Experience
 ======
-### COMP SCI 300 — PROGRAMMING II
+### Comp Sci 540 — Introduction to Artificial Intelligence
+*Fall 2024*
+### Comp Sci 300 — Programming II
 *Fall 2023, Spring 2024*
 
 
 Services
 ======
-Served as a reviewer for [ES-FoMo@ICML2024](https://es-fomo.com/)
+Served as a reviewer for [NeurIPS 2024](https://neurips.cc/Conferences/2024), [ES-FoMo@ICML2024](https://es-fomo.com/)
 
 Undergraduate Projects
 ======
