@@ -13,7 +13,8 @@ Publications
 ======
 - [**Pretrained Hybrids with MAD Skills**](https://arxiv.org/abs/2406.00894)  
  Nicholas Roberts, Samuel Guo, **Zhiqi Gao**, Satya Sai Srinath Namburi GNVV, Sonia Cromp, Chengjun Wu, Chengyu Duan, Frederic Sala.  
-  *Submitted to NeurIPS 2024.*  
+  *ICML 2024 Long-Context Foundation Models (LCFM) Workshop.*
+*ICML 2024 Next Generation of Sequence Modeling Architectures (NGSM) Workshop.*
   [[arXiv]](https://arxiv.org/pdf/2406.00894)
 
 
