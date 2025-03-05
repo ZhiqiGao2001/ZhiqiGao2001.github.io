@@ -7,10 +7,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year graduate student in CS at the [University of Wisconsin-Madison](https://www.cs.wisc.edu/), advised by [Professor Frederic Sala](https://pages.cs.wisc.edu/~fredsala/). I am also happy to be guided by his senior student [Nicholas Roberts](https://nick11roberts.science/). My research interests include Machine Learning with limited data and foundation models. Before that, I earned my B.S. also at the University of Wisconsin-Madison with a double major in Computer Science & Mathematics.
+I am a second-year graduate student in CS at the [University of Wisconsin-Madison](https://www.cs.wisc.edu/), advised by [Professor Frederic Sala](https://pages.cs.wisc.edu/~fredsala/), and part of [the Sprocket Lab](https://sprocketlab.github.io/). I am also happy to be guided by his senior student [Nicholas Roberts](https://nick11roberts.science/). My research interests include Foundation Model Interpretability and LLM Reasoning. Before that, I earned my B.S. also at the University of Wisconsin-Madison with a double major in Computer Science & Mathematics.
 
 Publications
 ======
+- [**Theoretical Physics Benchmark (TPBench) -- a Dataset and Study of AI Reasoning Capabilities in Theoretical Physics**](https://arxiv.org/abs/2502.15815)  
+ Daniel J.H. Chung, **Zhiqi Gao**, Yurii Kvasiuk, Tianyi Li, Moritz Münchmeyer, Maja Rudolph, Frederic Sala, Sai Chaitanya Tadepalli.  
+*Preprint*  
+[[arXiv]](https://arxiv.org/abs/2502.15815)
+
 - [**Pretrained Hybrids with MAD Skills**](https://arxiv.org/abs/2406.00894)  
  Nicholas Roberts, Samuel Guo, **Zhiqi Gao**, Satya Sai Srinath Namburi GNVV, Sonia Cromp, Chengjun Wu, Chengyu Duan, Frederic Sala.  
 *ICML 2024 Long-Context Foundation Models (LCFM) Workshop.*  
@@ -35,7 +40,7 @@ Work Experience
 Teaching Experience
 ======
 ### Comp Sci 540 — Introduction to Artificial Intelligence
-*Fall 2024*
+*Fall 2024, Spring 2025*
 ### Comp Sci 300 — Programming II
 *Fall 2023, Spring 2024*
 
