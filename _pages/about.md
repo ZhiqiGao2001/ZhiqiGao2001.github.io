@@ -7,14 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year graduate student in CS at the [University of Wisconsin-Madison](https://www.cs.wisc.edu/), advised by [Professor Frederic Sala](https://pages.cs.wisc.edu/~fredsala/), and part of [the Sprocket Lab](https://sprocketlab.github.io/). I am also happy to be guided by his senior student [Nicholas Roberts](https://nick11roberts.science/). My research interests include Foundation Model Interpretability and LLM Reasoning. Before that, I earned my B.S. also at the University of Wisconsin-Madison with a double major in Computer Science & Mathematics.
+I am a second-year graduate student in CS at the [University of Wisconsin-Madison](https://www.cs.wisc.edu/), advised by [Professor Frederic Sala](https://pages.cs.wisc.edu/~fredsala/), and part of [the Sprocket Lab](https://sprocketlab.github.io/). I am also happy to be guided by his senior student [Nicholas Roberts](https://nick11roberts.science/). My research interests include Foundation Model Interpretability and LLM Reasoning. Before that, I earned my B.S. also at the University of Wisconsin-Madison with a double major in Computer Science & Mathematics in 2023.
 
 Publications
 ======
 - [**Theoretical Physics Benchmark (TPBench) -- a Dataset and Study of AI Reasoning Capabilities in Theoretical Physics**](https://arxiv.org/abs/2502.15815)  
  Daniel J.H. Chung, **Zhiqi Gao**, Yurii Kvasiuk, Tianyi Li, Moritz Münchmeyer, Maja Rudolph, Frederic Sala, Sai Chaitanya Tadepalli.  
 *Preprint*  
-[[arXiv]](https://arxiv.org/abs/2502.15815)
+[[arXiv]](https://arxiv.org/abs/2502.15815) <span style="display:inline-block; width:50px;"></span>  [[Website]](https://tpbench.org/)
 
 - [**Pretrained Hybrids with MAD Skills**](https://arxiv.org/abs/2406.00894)  
  Nicholas Roberts, Samuel Guo, **Zhiqi Gao**, Satya Sai Srinath Namburi GNVV, Sonia Cromp, Chengjun Wu, Chengyu Duan, Frederic Sala.  
@@ -23,7 +23,7 @@ Publications
 [[arXiv]](https://arxiv.org/pdf/2406.00894)
 
 
-Work Experience
+Industry Experience
 ======
 ### Roblox Corporation
 <p style="display: flex; justify-content: space-between; align-items: center;">
