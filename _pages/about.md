@@ -11,12 +11,20 @@ I am a second-year graduate student in CS at the [University of Wisconsin-Madiso
 
 Publications
 ======
-- [**Theoretical Physics Benchmark (TPBench) -- a Dataset and Study of AI Reasoning Capabilities in Theoretical Physics**](https://arxiv.org/abs/2502.15815)  
+- Re-Structuring CLIP’s Language Capabilities  
+**Zhiqi Gao**, Frederic Sala.  
+*[MMLS 2025](https://midwest-ml.org/2025/)*  
+[[Poster PDF]](http://zhiqigao2001.github.io/files/CLIP_Lexical_Poster.pdf) <span style="display:inline-block; width:50px;"></span> [[Blog Post]](https://sprocketlab.github.io/posts/2025/05/clip-lexical/)
+
+
+- [Theoretical Physics Benchmark (TPBench) -- a Dataset and Study of AI Reasoning Capabilities in Theoretical Physics](https://arxiv.org/abs/2502.15815)  
  Daniel J.H. Chung, **Zhiqi Gao**, Yurii Kvasiuk, Tianyi Li, Moritz Münchmeyer, Maja Rudolph, Frederic Sala, Sai Chaitanya Tadepalli.  
 *Preprint*  
+*[MMLS 2025](https://midwest-ml.org/2025/) Lightning Talk*  
 [[arXiv]](https://arxiv.org/abs/2502.15815) <span style="display:inline-block; width:50px;"></span>  [[Website]](https://tpbench.org/)
 
-- [**Pretrained Hybrids with MAD Skills**](https://arxiv.org/abs/2406.00894)  
+
+- [Pretrained Hybrids with MAD Skills](https://arxiv.org/abs/2406.00894)  
  Nicholas Roberts, Samuel Guo, **Zhiqi Gao**, Satya Sai Srinath Namburi GNVV, Sonia Cromp, Chengjun Wu, Chengyu Duan, Frederic Sala.  
 *ICML 2024 Long-Context Foundation Models (LCFM) Workshop.*  
 *ICML 2024 Next Generation of Sequence Modeling Architectures (NGSM) Workshop.*  
@@ -47,7 +55,7 @@ Teaching Experience
 
 Services
 ======
-Served as a reviewer for [NeurIPS 2024](https://neurips.cc/Conferences/2024), [ES-FoMo@ICML2024](https://es-fomo.com/)
+Served as a reviewer for [NeurIPS 2024, 2025](https://neurips.cc/), [ES-FoMo@ICML2024](https://es-fomo.com/)
 
 Undergraduate Projects
 ======
