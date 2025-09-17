@@ -7,7 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year graduate student in CS at the [University of Wisconsin-Madison](https://www.cs.wisc.edu/), advised by [Professor Frederic Sala](https://pages.cs.wisc.edu/~fredsala/), and part of [the Sprocket Lab](https://sprocketlab.github.io/). I am also happy to be guided by his senior student [Nicholas Roberts](https://nick11roberts.science/). My research interests include Foundation Model Interpretability and LLM Reasoning. Before that, I earned my B.S. also at the University of Wisconsin-Madison with a double major in Computer Science & Mathematics in 2023.
+I am a Third-year PhD student in CS at the [University of Wisconsin-Madison](https://www.cs.wisc.edu/), advised by [Professor Frederic Sala](https://pages.cs.wisc.edu/~fredsala/), and part of [the Sprocket Lab](https://sprocketlab.github.io/). I am also happy to be guided by his senior student [Nicholas Roberts](https://nick11roberts.science/). My research interests include Foundation Model Interpretability and LLM Reasoning. Before that, I earned my B.S. also at the University of Wisconsin-Madison with a double major in Computer Science & Mathematics in 2023.
+
+
+**I am actively seeking a Summer 2026 internship, please feel free to reach out to me at zhiqi [at] cs [dot] wisc [dot] edu**
+
 
 Publications
 ======
