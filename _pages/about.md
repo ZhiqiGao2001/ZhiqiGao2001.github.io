@@ -10,15 +10,15 @@ redirect_from:
 I am a Third-year PhD student in CS at the [University of Wisconsin-Madison](https://www.cs.wisc.edu/), advised by [Professor Frederic Sala](https://pages.cs.wisc.edu/~fredsala/), and part of [the Sprocket Lab](https://sprocketlab.github.io/). I am also happy to be guided by his senior student [Nicholas Roberts](https://nick11roberts.science/). My research interests include Foundation Model Interpretability and LLM Reasoning. Before that, I earned my B.S. also at the University of Wisconsin-Madison with a double major in Computer Science & Mathematics in 2023.
 
 
-**I am actively seeking a Summer 2026 internship, please feel free to reach out to me at zhiqi [at] cs [dot] wisc [dot] edu**
+**I am actively seeking a Summer 2026 internship in relative fields, please feel free to reach out to me at zhiqi [at] cs [dot] wisc [dot] edu**
 
 
 Publications
 ======
-- Re-Structuring CLIP’s Language Capabilities  
-**Zhiqi Gao**, Frederic Sala.  
-*[MMLS (Midwest Machine Learning Symposium) 2025](https://midwest-ml.org/2025/)*  
-[[Poster PDF]](http://zhiqigao2001.github.io/files/CLIP_Lexical_Poster.pdf) <span style="display:inline-block; width:50px;"></span> [[Blog Post]](https://sprocketlab.github.io/posts/2025/05/clip-lexical/)
+- [Test-time Scaling Techniques in Theoretical Physics--A Comparison of Methods on the TPBench Dataset](https://arxiv.org/abs/2506.20729)  
+**Zhiqi Gao***, Tianyi Li*, Yurii Kvasiuk, Sai Chaitanya Tadepalli, Maja Rudolph, Daniel J.H. Chung, Frederic Sala, Moritz Münchmeyer  
+*[NeurIPS 2025 Machine Learning and the Physical Sciences (ML4PS) Workshop](https://ml4physicalsciences.github.io/2025/)*  
+[[arXiv]](https://arxiv.org/abs/2506.20729) <span style="display:inline-block; width:50px;"></span>  
 
 
 - [Theoretical Physics Benchmark (TPBench) -- a Dataset and Study of AI Reasoning Capabilities in Theoretical Physics](https://arxiv.org/abs/2502.15815)  
@@ -32,6 +32,14 @@ Publications
  Nicholas Roberts, Samuel Guo, **Zhiqi Gao**, Satya Sai Srinath Namburi GNVV, Sonia Cromp, Chengjun Wu, Chengyu Duan, Frederic Sala.  
 *[COLM (Conference on Language Modeling) 2025](https://colmweb.org/)*   
 [[arXiv]](https://arxiv.org/pdf/2406.00894)
+
+
+- Re-Structuring CLIP’s Language Capabilities  
+**Zhiqi Gao**, Frederic Sala.  
+*[MMLS (Midwest Machine Learning Symposium) 2025](https://midwest-ml.org/2025/)*  
+[[Poster PDF]](http://zhiqigao2001.github.io/files/CLIP_Lexical_Poster.pdf) <span style="display:inline-block; width:50px;"></span> [[Blog Post]](https://sprocketlab.github.io/posts/2025/05/clip-lexical/)
+
+
 
 
 Industry Experience
