@@ -72,10 +72,10 @@ Served as a reviewer for [NeurIPS 2024, 2025](https://neurips.cc/), [ES-FoMo@ICM
 
 ### Tessellations on the Poincaré Half-Plane and Disk 
 **Advisor:** [Professor Andrew Zimmer](https://people.math.wisc.edu/~amzimmer2/).  
-- Contributed to the "Tessellations on the Poincaré Half-Plane and Disk" project in the Summer 2022 UW-Madison Research Experiences for Undergraduates (REU) in Analysis funded by the National Science Foundation (NSF). The culmination of this project is a program that serves an educational purpose, aiding students in comprehending complex concepts through visualization. 
+- Contributed to the "Tessellations on the Poincaré Half-Plane and Disk" project in the Summer 2022 UW-Madison Research Experiences for Undergraduates (REU) in Analysis funded by the National Science Foundation (NSF). Developed a visualization tool to demonstrate principles of hyperbolic geometry for education purposes, allowing users to generate and explore tessellations on the Poincaré disk and half-plane, aiding students in comprehending complex concepts.  
 [[Poster PDF]](http://zhiqigao2001.github.io/files/REU_poster.pdf)
 
 ### Random Walks on Groups
 **Advisor:** [Dr. Nate Fisher](https://sites.google.com/view/natefishermath)  
-- Participated in a group project at [Madison Experimental Mathematics Lab](https://mxm.math.wisc.edu/past-semesters/sp22/), which utilized Mathematica to simulate random walks in various groups, including $\mathbb{Z}^n$ and the Heisenberg group, and to analyze their long-term patterns, such as distance traveled, expectation of hitting time, and distribution of hitting location.
+- Participated in a group project at [Madison Experimental Mathematics Lab](https://mxm.math.wisc.edu/past-semesters/sp22/). Implemented Mathematica simulations to investigate the asymptotic properties of random walks on algebraic structures like $\mathbb{Z}^n$ and the Heisenberg group, quantifying metrics and analyzing their long-term pattern, such as expected travel distance, expectation of hitting time, and distribution of hitting location.  
 [[Poster PDF]](http://zhiqigao2001.github.io/files/MXM_Spring_2022_Poster.pdf)
