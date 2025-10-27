@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student in CS at the University of Wisconsin-Madison, advised by Professor Frederic Sala. My research focus is on large language models and foundation models; I am particularly interested in i) how to improve their performance via data and ii) how to evaluate them. 
+I am a third-year PhD student in CS at the University of Wisconsin-Madison, advised by Professor Frederic Sala. My research focus is on large language models and foundation models; I am particularly interested in i) how to improve their performance，particularly via data selection and curation and ii) how to evaluate them. 
 
 **I am actively seeking a Summer 2026 internship in related fields, please feel free to reach out to me at zhiqi [at] cs [dot] wisc [dot] edu**
 
