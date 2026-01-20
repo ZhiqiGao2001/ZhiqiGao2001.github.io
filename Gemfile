@@ -9,7 +9,7 @@ gem "github-pages", group: :jekyll_plugins
 
 # gem "wdm", "~> 0.1.1" if Gem.win_platform?
 
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+gem 'tzinfo-data', platforms: [:windows, :jruby]
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do

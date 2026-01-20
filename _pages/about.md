@@ -66,7 +66,7 @@ I am a third-year PhD student in CS at the University of Wisconsin-Madison, advi
 
 # Services
 
-Served as a reviewer for [NeurIPS 2024, 2025](https://neurips.cc/), [ES-FoMo@ICML2024](https://es-fomo.com/)
+Served as a reviewer for [NeurIPS 2024, 2025](https://neurips.cc/), [TMLR 2026](https://jmlr.org/tmlr/), [ES-FoMo@ICML2024](https://es-fomo.com/)
 
 # Undergraduate Projects
 
