@@ -11,6 +11,7 @@ I am a third-year PhD student in CS at the University of Wisconsin-Madison, advi
 
 **I am actively seeking a Summer 2026 internship in related fields, please feel free to reach out to me at zhiqi [at] cs [dot] wisc [dot] edu**
 
+**[My resume (PDF)](/files/ZhiqiGao_Resume.pdf)**
 
 # Publications
 
