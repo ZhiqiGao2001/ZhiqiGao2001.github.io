@@ -30,6 +30,10 @@ I am a third-year PhD student in CS at the University of Wisconsin-Madison, advi
 [[arXiv]](https://arxiv.org/abs/2502.15815) <span style="display:inline-block; width:50px;"></span>  [[Website]](https://tpbench.org/)
 
 ### Workshop Publications
+- OR-LLM-Bench: A Pipeline for Scalable and Verifiable Text-to-Optimization Synthesis  
+**Zhiqi Gao**, Albert Ge, Alexander Michael Berenbeim, Nathaniel D. Bastian, Frederic Sala  
+*[ICLR 2026 Workshop on Navigating and Addressing Data Problems for Foundation Models (DATA-FM)](https://data-fm-iclr2026.github.io/)*  
+
 - [Test-time Scaling Techniques in Theoretical Physics—A Comparison of Methods on the TPBench Dataset](https://arxiv.org/abs/2506.20729)  
 **Zhiqi Gao***, Tianyi Li*, Yurii Kvasiuk, Sai Chaitanya Tadepalli, Maja Rudolph, Daniel J.H. Chung, Frederic Sala, Moritz Münchmeyer  
 *[NeurIPS 2025 Machine Learning and the Physical Sciences (ML4PS) Workshop](https://ml4physicalsciences.github.io/2025/)*  
