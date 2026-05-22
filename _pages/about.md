@@ -15,11 +15,9 @@ I am a third-year PhD student in CS at the University of Wisconsin-Madison, advi
 
 # Publications
 
-(\* denotes equal contribution)
-
 ### Preprints / Under Review
 - [Models Can Model, But Can't Bind: Structured Grounding in Text-to-Optimization](https://arxiv.org/abs/2605.21751)  
-**Zhiqi Gao***, Albert Ge*, Alexander Michael Berenbeim, Nathaniel D. Bastian, Frederic Sala  
+**Zhiqi Gao**\*, Albert Ge\*, Alexander Michael Berenbeim, Nathaniel D. Bastian, Frederic Sala  
 *Under review at [COLM (Conference on Language Modeling) 2026](https://colmweb.org/)*  
 *Preliminary version (as "OR-LLM-Bench") at [ICLR 2026 Workshop on Navigating and Addressing Data Problems for Foundation Models (DATA-FM)](https://data-fm-iclr2026.github.io/)*  
 [[arXiv]](https://arxiv.org/abs/2605.21751)
@@ -51,7 +49,7 @@ Nathaniel S. Woodward, **Zhiqi Gao**, Yurii Kvasiuk, Kendrick M. Smith, Frederic
 
 ### Workshop Publications
 - [Test-time Scaling Techniques in Theoretical Physics—A Comparison of Methods on the TPBench Dataset](https://arxiv.org/abs/2506.20729)  
-**Zhiqi Gao***, Tianyi Li*, Yurii Kvasiuk, Sai Chaitanya Tadepalli, Maja Rudolph, Daniel J.H. Chung, Frederic Sala, Moritz Münchmeyer  
+**Zhiqi Gao**\*, Tianyi Li\*, Yurii Kvasiuk, Sai Chaitanya Tadepalli, Maja Rudolph, Daniel J.H. Chung, Frederic Sala, Moritz Münchmeyer  
 *[NeurIPS 2025 Machine Learning and the Physical Sciences (ML4PS) Workshop](https://ml4physicalsciences.github.io/2025/)*  
 [[arXiv]](https://arxiv.org/abs/2506.20729) <span style="display:inline-block; width:50px;"></span>  
 
