@@ -12,3 +12,6 @@ node_modules
 package-lock.json
 .idea/.name
 /.idea
+
+# local preview override
+_config.dev.yml

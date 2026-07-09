@@ -1,0 +1,254 @@
+/* ==========================================================================
+   Custom overrides
+   Loaded last from assets/css/main.scss so it wins over the theme.
+   ========================================================================== */
+
+/*
+   Badge links — [arXiv] [Code] [Dataset] and the poster links.
+   Global, so publication entries and undergraduate projects match.
+*/
+.page__content a.pub-link {
+  display: inline-block;
+  margin: 0.55em 0.3em 0 0;
+  padding: 0.15em 0.65em;
+  border: 1px solid $border-color;
+  border-radius: 3px;
+  font-size: 0.78em;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  color: $link-color;
+  text-decoration: none;
+  white-space: nowrap;
+
+  &:hover,
+  &:focus {
+    background: $link-color;
+    border-color: $link-color;
+    color: #fff;
+    text-decoration: none;
+  }
+}
+
+/*
+   Publication list.
+
+   The author line is bare text, so it cannot be selected directly. Instead the
+   whole entry is muted, and the title, the author's own name, and the venue
+   each opt back in to a stronger colour. That creates the contrast ramp
+   without touching the markdown.
+
+   Rules hang off `li`, not `li p`: kramdown only wraps list items in <p> for
+   loose lists (blank line between items). A single-item section such as
+   Journal Publications renders tight, with no <p> at all.
+*/
+.page__content .publications {
+  /* Section labels ("Conferences & Journals", "Workshop Publications").
+     Deliberately quiet: they must not compete with the paper titles below,
+     so they read as an index tab rather than as a heading. */
+  h3 {
+    margin-top: 2.4em;
+    margin-bottom: 1.1em;
+    color: $gray;
+    font-size: 0.78em;
+    font-weight: 600;
+    letter-spacing: 0.11em;
+    text-transform: uppercase;
+  }
+
+  h3:first-of-type {
+    margin-top: 1.2em;
+  }
+
+  ul {
+    margin: 0;
+    padding-left: 0;
+    list-style: none;
+  }
+
+  li {
+    margin-bottom: 2em;
+    color: $gray; // author line inherits this
+    font-size: 0.95em;
+    line-height: 1.65;
+  }
+
+  p {
+    margin: 0;
+    color: inherit;
+    font-size: inherit;
+    line-height: inherit;
+  }
+
+  /* Paper title: the only anchor in the entry that is not a badge. */
+  li a:not(.pub-link) {
+    display: inline-block;
+    margin-bottom: 0.2em;
+    color: $text-color;
+    font-size: 1.15em;
+    font-weight: 700;
+    line-height: 1.35;
+    text-decoration: none;
+
+    &:hover {
+      color: $link-color;
+      text-decoration: underline;
+    }
+  }
+
+  /* The author's own name, bolded in the markdown. */
+  strong {
+    padding: 0.05em 0.28em;
+    border-radius: 2px;
+    background: mix(#fff, $link-color, 88%);
+    color: $text-color;
+    font-weight: 700;
+  }
+
+  /* Primary venue. */
+  em {
+    color: mix(#000, $link-color, 20%);
+    font-style: italic;
+  }
+
+  /* Secondary venue lines — "Preliminary version at ...", "Under review at
+     ...". Muted so the primary venue above stays the anchor. */
+  em ~ em {
+    color: $gray;
+  }
+}
+
+/* ==========================================================================
+   News
+   ========================================================================== */
+
+.page__content .news {
+  ul {
+    margin: 0;
+    padding-left: 0;
+    list-style: none;
+  }
+
+  li {
+    margin-bottom: 0.9em;
+    line-height: 1.7;
+  }
+
+  /* The date. Same role as a venue in a publication entry, so same colour. */
+  strong {
+    margin-right: 0.5em;
+    color: mix(#000, $link-color, 20%);
+    font-weight: 600;
+  }
+}
+
+/* ==========================================================================
+   Experience / teaching / project entries
+
+   Same contrast ramp as the publication list: a dark bold heading, a muted
+   meta line, then body text.
+   ========================================================================== */
+
+.page__content .entries {
+  h3 {
+    margin-top: 2.2em;
+    margin-bottom: 0.35em;
+    color: $text-color;
+    font-size: 1.15em;
+    font-weight: 700;
+    line-height: 1.35;
+  }
+
+  h3:first-of-type {
+    margin-top: 1em;
+  }
+
+  /* Role on the left, dates on the right. Wraps to two lines when narrow
+     rather than crushing together, which the old inline flex did not do. */
+  .entry-meta {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 0.1em 1.5em;
+    margin: 0 0 0.7em;
+    color: $gray;
+    font-size: 0.95em;
+    font-style: italic;
+  }
+
+  /* "Advisor: ..." lines. */
+  .entry-note {
+    margin: 0 0 0.7em;
+    color: $gray;
+    font-size: 0.95em;
+
+    strong {
+      color: $gray;
+      font-weight: 600;
+    }
+  }
+
+  ul {
+    margin: 0;
+    padding-left: 1.1em;
+  }
+
+  li {
+    margin-bottom: 0.5em;
+    line-height: 1.75;
+  }
+}
+
+/* ==========================================================================
+   Miscellaneous
+
+   Set in a serif face. Not decoration: the section is prose about classical
+   literature, and the shift in type signals a shift in register away from the
+   research listings above. System fonts only — no webfont request for one
+   section. CJK characters fall back to the platform serif.
+   ========================================================================== */
+
+.page__content .misc {
+  max-width: 44em;
+
+  p {
+    color: mix(#000, $gray, 25%);
+    font-family: Georgia, "Iowan Old Style", "Times New Roman", serif;
+    font-size: 1.05em;
+    line-height: 1.8;
+  }
+}
+
+/* ==========================================================================
+   Page rhythm and reading measure
+   ========================================================================== */
+
+.page__content {
+  /* Section headings: give each top-level section a clear opening. */
+  h1 {
+    margin-top: 2.5em;
+    margin-bottom: 0.75em;
+    padding-bottom: 0.3em;
+    border-bottom: 1px solid $border-color;
+    font-size: 1.5em;
+  }
+
+  h1:first-of-type {
+    margin-top: 1.5em;
+  }
+
+  h3 {
+    margin-top: 1.75em;
+    margin-bottom: 0.6em;
+  }
+
+  p,
+  li {
+    line-height: 1.75;
+  }
+
+  /* Cap the measure on running prose only. Publication entries and list
+     items are unaffected, since this matches direct children only. */
+  > p {
+    max-width: 46em;
+  }
+}
