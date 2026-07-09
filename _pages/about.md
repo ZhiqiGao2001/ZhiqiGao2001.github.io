@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student in CS at the University of Wisconsin-Madison, advised by Professor Frederic Sala. My research focus is on large language models and foundation models; I am particularly interested in i) how to improve their performance，particularly via data selection and curation and ii) how to evaluate them. 
+I am a third-year PhD student in CS at the University of Wisconsin-Madison, advised by Professor [Frederic Sala](https://pages.cs.wisc.edu/~fredsala/) and a member of the [Sprocket Lab](https://sprocketlab.github.io/). My research takes a data-centric approach to large language models; I am particularly interested in: i) improving their capabilities through data selection, curation, and automated agentic data synthesis, and ii) evaluating them faithfully through verifiable outcomes and by decomposing complex tasks into distinct skills.
 
 **I am actively seeking internship opportunities in related fields, please feel free to reach out to me at zhiqi [at] cs [dot] wisc [dot] edu**
 
@@ -15,19 +15,18 @@ I am a third-year PhD student in CS at the University of Wisconsin-Madison, advi
 
 # Publications
 
-### Preprints / Under Review
+### Conference Publications
 - [Models Can Model, But Can't Bind: Structured Grounding in Text-to-Optimization](https://arxiv.org/abs/2605.21751)  
 **Zhiqi Gao**\*, Albert Ge\*, Alexander Michael Berenbeim, Nathaniel D. Bastian, Frederic Sala  
-*Under review at [COLM (Conference on Language Modeling) 2026](https://colmweb.org/)*  
+*[COLM (Conference on Language Modeling) 2026](https://colmweb.org/)*  
 *Preliminary version (as "OR-LLM-Bench") at [ICLR 2026 Workshop on Navigating and Addressing Data Problems for Foundation Models (DATA-FM)](https://data-fm-iclr2026.github.io/)*  
 [[arXiv]](https://arxiv.org/abs/2605.21751)
 
 - [Test-Time Scaling Makes Overtraining Compute-Optimal](https://arxiv.org/abs/2604.01411)  
 Nicholas Roberts, Sungjun Cho, **Zhiqi Gao**, Tzu-Heng Huang, Albert Wu, et al., Aws Albarghouthi, Frederic Sala  
-*Under review at [COLM (Conference on Language Modeling) 2026](https://colmweb.org/)*  
+*[COLM (Conference on Language Modeling) 2026](https://colmweb.org/)*  
 [[arXiv]](https://arxiv.org/abs/2604.01411)
 
-### Conference Publications
 - [Fine-Tuning Small Reasoning Models for Quantum Field Theory](https://arxiv.org/abs/2604.18936)  
 Nathaniel S. Woodward, **Zhiqi Gao**, Yurii Kvasiuk, Kendrick M. Smith, Frederic Sala, Moritz Münchmeyer  
 *2026 Conference on Physics and AI (PAI26)*  
@@ -78,7 +77,7 @@ Nathaniel S. Woodward, **Zhiqi Gao**, Yurii Kvasiuk, Kendrick M. Smith, Frederic
 # Teaching Experience
 
 ### Comp Sci 540 — Introduction to Artificial Intelligence
-*Fall 2024, Spring 2025*
+*Fall 2024, Spring 2025, Spring 2026*
 ### Comp Sci 300 — Programming II
 *Fall 2023, Spring 2024*
 
