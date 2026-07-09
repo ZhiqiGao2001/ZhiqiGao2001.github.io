@@ -113,3 +113,11 @@ Served as a reviewer for NeurIPS 2024, 2025, 2026, COLM 2026, TMLR 2026
 **Advisor:** [Dr. Nate Fisher](https://sites.google.com/view/natefishermath)  
 - Participated in a group project at [Madison Experimental Mathematics Lab](https://mxm.math.wisc.edu/past-semesters/sp22/). Implemented Mathematica simulations to investigate the asymptotic properties of random walks on algebraic structures like $\mathbb{Z}^n$ and the Heisenberg group, quantifying metrics and analyzing their long-term pattern, such as expected travel distance, expectation of hitting time, and distribution of hitting location.  
 [[Poster PDF]](/files/MXM_Spring_2022_Poster.pdf)
+
+# Miscellaneous
+
+Outside of research, I have spent many years studying classical Chinese literature and cultural history.
+
+I have memorized around 500 works of classical Chinese poetry, ci lyric poetry, and prose, and have written over 70 original pieces in traditional forms, including poems, ci, prose, and couplets.
+
+Before moving abroad, I served as a volunteer docent at Zhihua Temple (智化寺) in Beijing, and I am comfortable giving informal guided tours of Beijing's historical sites, such as the Summer Palace and the Forbidden City.
