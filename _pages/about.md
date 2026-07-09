@@ -13,50 +13,66 @@ I am a third-year PhD student in CS at the University of Wisconsin-Madison, advi
 
 **[My resume (PDF)](/files/ZhiqiGao_Resume.pdf)**
 
+# News
+
+- **[July 2026]** Two papers accepted to COLM 2026!
+- **[May 2026]** *Fine-Tuning Small Reasoning Models for Quantum Field Theory* accepted to PAI26.
+
+{% comment %}
+Older news, parked until the months are confirmed. Fill in the date and move
+above this block to publish. Not emitted into the built page.
+
+- **[??? 2026]** *OR-LLM-Bench* presented at the ICLR 2026 DATA-FM Workshop.
+- **[??? 2025]** *Test-time Scaling in Theoretical Physics* accepted to the NeurIPS 2025 ML4PS Workshop.
+- **[??? 2025]** TPBench published in MLST.
+- **[??? 2025]** *Pretrained Hybrids with MAD Skills* accepted to COLM 2025.
+- **[??? 2025]** Gave a Lightning Talk on TPBench at MMLS 2025.
+{% endcomment %}
+
 # Publications
 
 ### Conference Publications
 - [Models Can Model, But Can't Bind: Structured Grounding in Text-to-Optimization](https://arxiv.org/abs/2605.21751)  
 **Zhiqi Gao**\*, Albert Ge\*, Alexander Michael Berenbeim, Nathaniel D. Bastian, Frederic Sala  
-*[COLM (Conference on Language Modeling) 2026](https://colmweb.org/)*  
-*Preliminary version (as "OR-LLM-Bench") at [ICLR 2026 Workshop on Navigating and Addressing Data Problems for Foundation Models (DATA-FM)](https://data-fm-iclr2026.github.io/)*  
-[[arXiv]](https://arxiv.org/abs/2605.21751)
+*COLM (Conference on Language Modeling) 2026*  
+*Preliminary version (as "OR-LLM-Bench") at ICLR 2026 DATA-FM Workshop*  
+[[arXiv]](https://arxiv.org/abs/2605.21751) <span style="display:inline-block; width:50px;"></span> [[Code]](https://github.com/SprocketLab/Text2Opt-Bench) <span style="display:inline-block; width:50px;"></span> [[Dataset]](https://huggingface.co/datasets/ZhiqiGao/Text2Opt-Bench)
 
 - [Test-Time Scaling Makes Overtraining Compute-Optimal](https://arxiv.org/abs/2604.01411)  
 Nicholas Roberts, Sungjun Cho, **Zhiqi Gao**, Tzu-Heng Huang, Albert Wu, et al., Aws Albarghouthi, Frederic Sala  
-*[COLM (Conference on Language Modeling) 2026](https://colmweb.org/)*  
+*COLM (Conference on Language Modeling) 2026*  
 [[arXiv]](https://arxiv.org/abs/2604.01411)
 
 - [Fine-Tuning Small Reasoning Models for Quantum Field Theory](https://arxiv.org/abs/2604.18936)  
 Nathaniel S. Woodward, **Zhiqi Gao**, Yurii Kvasiuk, Kendrick M. Smith, Frederic Sala, Moritz Münchmeyer  
 *2026 Conference on Physics and AI (PAI26)*  
 *Under review at MLST (Machine Learning: Science and Technology)*  
-[[arXiv]](https://arxiv.org/abs/2604.18936)
+[[arXiv]](https://arxiv.org/abs/2604.18936) <span style="display:inline-block; width:50px;"></span> [[Code]](https://github.com/nswood/VerifiableTPData) <span style="display:inline-block; width:50px;"></span> [[Dataset]](https://huggingface.co/datasets/nswoodward/VerifiableQFT)
 
 - [Pretrained Hybrids with MAD Skills](https://arxiv.org/abs/2406.00894)  
  Nicholas Roberts, Samuel Guo, **Zhiqi Gao**, Satya Sai Srinath Namburi GNVV, Sonia Cromp, Chengjun Wu, Chengyu Duan, Frederic Sala.  
-*[COLM (Conference on Language Modeling) 2025](https://colmweb.org/)*   
-[[arXiv]](https://arxiv.org/pdf/2406.00894)
+*COLM (Conference on Language Modeling) 2025*  
+[[arXiv]](https://arxiv.org/abs/2406.00894)
 
 
 ### Journal Publications
 - [Theoretical Physics Benchmark (TPBench) -- a Dataset and Study of AI Reasoning Capabilities in Theoretical Physics](https://arxiv.org/abs/2502.15815)  
  Daniel J.H. Chung, **Zhiqi Gao**, Yurii Kvasiuk, Tianyi Li, Moritz Münchmeyer, Maja Rudolph, Frederic Sala, Sai Chaitanya Tadepalli.  
-*[MLST (Machine Learning: Science and Technology) 2025](https://iopscience.iop.org/journal/2632-2153)*  
-*[MMLS (Midwest Machine Learning Symposium) 2025](https://midwest-ml.org/2025/) Lightning Talk*  
-[[arXiv]](https://arxiv.org/abs/2502.15815) <span style="display:inline-block; width:50px;"></span>  [[Website]](https://tpbench.org/)
+*MLST (Machine Learning: Science and Technology) 2025*  
+*MMLS (Midwest Machine Learning Symposium) 2025 Lightning Talk*  
+[[arXiv]](https://arxiv.org/abs/2502.15815) <span style="display:inline-block; width:50px;"></span>  [[Website]](https://tpbench.org/) <span style="display:inline-block; width:50px;"></span> [[Dataset]](https://huggingface.co/datasets/ZhiqiGao/TPBench)
 
 ### Workshop Publications
 - [Test-time Scaling Techniques in Theoretical Physics—A Comparison of Methods on the TPBench Dataset](https://arxiv.org/abs/2506.20729)  
 **Zhiqi Gao**\*, Tianyi Li\*, Yurii Kvasiuk, Sai Chaitanya Tadepalli, Maja Rudolph, Daniel J.H. Chung, Frederic Sala, Moritz Münchmeyer  
-*[NeurIPS 2025 Machine Learning and the Physical Sciences (ML4PS) Workshop](https://ml4physicalsciences.github.io/2025/)*  
+*NeurIPS 2025 Machine Learning and the Physical Sciences (ML4PS) Workshop*  
 [[arXiv]](https://arxiv.org/abs/2506.20729) <span style="display:inline-block; width:50px;"></span>  
 
 
 - Re-Structuring CLIP’s Language Capabilities  
 **Zhiqi Gao**, Frederic Sala.  
-*[MMLS (Midwest Machine Learning Symposium) 2025](https://midwest-ml.org/2025/)*  
-[[Poster PDF]](http://zhiqigao2001.github.io/files/CLIP_Lexical_Poster.pdf) <span style="display:inline-block; width:50px;"></span> [[Blog Post]](https://sprocketlab.github.io/posts/2025/05/clip-lexical/)
+*MMLS (Midwest Machine Learning Symposium) 2025*  
+[[Poster PDF]](/files/CLIP_Lexical_Poster.pdf) <span style="display:inline-block; width:50px;"></span> [[Blog Post]](https://sprocketlab.github.io/posts/2025/05/clip-lexical/)
 
 <!-- ### Preprints -->
 
@@ -82,18 +98,18 @@ Nathaniel S. Woodward, **Zhiqi Gao**, Yurii Kvasiuk, Kendrick M. Smith, Frederic
 *Fall 2023, Spring 2024*
 
 
-# Services
+# Service
 
-Served as a reviewer for [NeurIPS 2024, 2025, 2026](https://neurips.cc/), [COLM 2026](https://colmweb.org/), [TMLR 2026](https://jmlr.org/tmlr/)
+Served as a reviewer for NeurIPS 2024, 2025, 2026, COLM 2026, TMLR 2026
 
 # Undergraduate Projects
 
 ### Tessellations on the Poincaré Half-Plane and Disk 
 **Advisor:** [Professor Andrew Zimmer](https://people.math.wisc.edu/~amzimmer2/).  
 - Contributed to the "Tessellations on the Poincaré Half-Plane and Disk" project in the Summer 2022 UW-Madison Research Experiences for Undergraduates (REU) in Analysis funded by the National Science Foundation (NSF). Developed a visualization tool to demonstrate principles of hyperbolic geometry for education purposes, allowing users to generate and explore tessellations on the Poincaré disk and half-plane, aiding students in comprehending complex concepts.  
-[[Poster PDF]](http://zhiqigao2001.github.io/files/REU_poster.pdf)
+[[Poster PDF]](/files/REU_poster.pdf)
 
 ### Random Walks on Groups
 **Advisor:** [Dr. Nate Fisher](https://sites.google.com/view/natefishermath)  
 - Participated in a group project at [Madison Experimental Mathematics Lab](https://mxm.math.wisc.edu/past-semesters/sp22/). Implemented Mathematica simulations to investigate the asymptotic properties of random walks on algebraic structures like $\mathbb{Z}^n$ and the Heisenberg group, quantifying metrics and analyzing their long-term pattern, such as expected travel distance, expectation of hitting time, and distribution of hitting location.  
-[[Poster PDF]](http://zhiqigao2001.github.io/files/MXM_Spring_2022_Poster.pdf)
+[[Poster PDF]](/files/MXM_Spring_2022_Poster.pdf)
