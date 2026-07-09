@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student in CS at the University of Wisconsin-Madison, advised by Professor [Frederic Sala](https://pages.cs.wisc.edu/~fredsala/) and a member of the [Sprocket Lab](https://sprocketlab.github.io/).
+I am a third-year PhD student in CS at the University of Wisconsin-Madison, advised by [Professor Frederic Sala](https://pages.cs.wisc.edu/~fredsala/) and a member of the [Sprocket Lab](https://sprocketlab.github.io/).
 
 My research takes a data-centric approach to large language models. I am particularly interested in:
 
@@ -20,7 +20,7 @@ My research takes a data-centric approach to large language models. I am particu
 
 Before that, I earned my B.S., also at the University of Wisconsin-Madison, with a double major in Computer Science & Mathematics.
 
-**I am actively seeking internship opportunities in related fields. Please feel free to reach out to me at zhiqi [at] cs [dot] wisc [dot] edu, or take a look at [my resume](/files/ZhiqiGao_Resume.pdf).**
+**I am actively seeking internship opportunities in related fields. Please feel free to reach out to me at zhiqi [at] cs.wisc.edu, or take a look at [my resume](/files/ZhiqiGao_Resume.pdf).**
 
 # News
 
@@ -79,7 +79,7 @@ Daniel J.H. Chung, **Zhiqi Gao**, Yurii Kvasiuk, Tianyi Li, Moritz Münchmeyer, 
 - [Test-time Scaling Techniques in Theoretical Physics—A Comparison of Methods on the TPBench Dataset](https://arxiv.org/abs/2506.20729)  
 **Zhiqi Gao**\*, Tianyi Li\*, Yurii Kvasiuk, Sai Chaitanya Tadepalli, Maja Rudolph, Daniel J.H. Chung, Frederic Sala, Moritz Münchmeyer  
 *NeurIPS 2025 Machine Learning and the Physical Sciences (ML4PS) Workshop*  
-[arXiv](https://arxiv.org/abs/2506.20729){: .pub-link}   
+[arXiv](https://arxiv.org/abs/2506.20729){: .pub-link}
 
 
 - [Re-Structuring CLIP’s Language Capabilities](https://sprocketlab.github.io/posts/2025/05/clip-lexical/)  
