@@ -118,6 +118,47 @@
 }
 
 /* ==========================================================================
+   Base type scale
+
+   The theme jumps the root to 18px above 768px, which is generous for a page
+   that is scanned more than it is read. Hold it at the 16px browser default,
+   as al-folio and most academic homepages do.
+   ========================================================================== */
+
+html {
+  @include breakpoint($medium) {
+    font-size: 16px;
+  }
+}
+
+/* ==========================================================================
+   Bio research interests
+
+   Marked up as an ordered list because that is what it is; rendered with
+   roman numerals to keep the i) / ii) reading of the original sentence.
+   ========================================================================== */
+
+.page__content .bio-interests {
+  max-width: 46em;
+
+  ol {
+    margin: 0.6em 0 0;
+    padding-left: 2.4em;
+    list-style: lower-roman;
+  }
+
+  li {
+    margin-bottom: 0.4em;
+    padding-left: 0.3em;
+    line-height: 1.75;
+  }
+
+  li::marker {
+    color: $gray;
+  }
+}
+
+/* ==========================================================================
    News
    ========================================================================== */
 
