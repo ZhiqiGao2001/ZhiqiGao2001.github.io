@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student in CS at the University of Wisconsin-Madison, advised by Professor [Frederic Sala](https://pages.cs.wisc.edu/~fredsala/) and a member of the [Sprocket Lab](https://sprocketlab.github.io/). My research takes a data-centric approach to large language models; I am particularly interested in: i) improving their capabilities through data selection, curation, and automated agentic data synthesis, and ii) evaluating them faithfully through verifiable outcomes and by decomposing complex tasks into distinct skills.
+I am a third-year PhD student in CS at the University of Wisconsin-Madison, advised by Professor [Frederic Sala](https://pages.cs.wisc.edu/~fredsala/) and a member of the [Sprocket Lab](https://sprocketlab.github.io/). My research takes a data-centric approach to large language models; I am particularly interested in: i) improving their capabilities through data selection, curation, and automated agentic data synthesis, and ii) evaluating them faithfully through verifiable outcomes and by decomposing complex tasks into distinct skills. Before that, I earned my B.S. also at the University of Wisconsin-Madison with a double major in Computer Science & Mathematics.
 
 **I am actively seeking internship opportunities in related fields, please feel free to reach out to me at zhiqi [at] cs [dot] wisc [dot] edu**
 
