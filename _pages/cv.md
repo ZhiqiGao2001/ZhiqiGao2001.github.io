@@ -1,12 +1,7 @@
 ---
-layout: archive
 title: "CV"
 permalink: /cv/
-author_profile: true
+redirect_to: /files/ZhiqiGao_Resume.pdf
 redirect_from:
   - /resume
 ---
-
-
-
-
