@@ -46,8 +46,8 @@
      Deliberately quiet: they must not compete with the paper titles below,
      so they read as an index tab rather than as a heading. */
   h3 {
-    margin-top: 2.4em;
-    margin-bottom: 1.1em;
+    margin-top: 1.6em;
+    margin-bottom: 0.7em;
     color: $gray;
     font-size: 0.78em;
     font-weight: 600;
@@ -66,10 +66,10 @@
   }
 
   li {
-    margin-bottom: 2em;
+    margin-bottom: 1.1em;
     color: $gray; // author line inherits this
     font-size: 0.95em;
-    line-height: 1.65;
+    line-height: 1.5;
   }
 
   p {
@@ -95,8 +95,14 @@
     }
   }
 
-  /* The author's own name, bolded in the markdown. */
+  /* The author's own name, bolded in the markdown.
+
+     Horizontal padding on an inline element occupies layout space, which
+     pushed the following comma or asterisk away from the name and read as a
+     stray space before the punctuation. The negative margin cancels that;
+     the background still extends. */
   strong {
+    margin: 0 -0.22em;
     padding: 0.05em 0.28em;
     border-radius: 2px;
     background: mix(#fff, $link-color, 88%);
@@ -121,13 +127,13 @@
    Base type scale
 
    The theme jumps the root to 18px above 768px, which is generous for a page
-   that is scanned more than it is read. Hold it at the 16px browser default,
-   as al-folio and most academic homepages do.
+   that is scanned more than it is read. 17px sits between that and the 16px
+   browser default the al-folio sites in this lab use.
    ========================================================================== */
 
 html {
   @include breakpoint($medium) {
-    font-size: 16px;
+    font-size: 17px;
   }
 }
 
@@ -148,9 +154,9 @@ html {
   }
 
   li {
-    margin-bottom: 0.4em;
+    margin-bottom: 0.3em;
     padding-left: 0.3em;
-    line-height: 1.75;
+    line-height: 1.5;
   }
 
   li::marker {
@@ -170,8 +176,8 @@ html {
   }
 
   li {
-    margin-bottom: 0.9em;
-    line-height: 1.7;
+    margin-bottom: 0.5em;
+    line-height: 1.5;
   }
 
   /* The date. Same role as a venue in a publication entry, so same colour. */
@@ -191,8 +197,8 @@ html {
 
 .page__content .entries {
   h3 {
-    margin-top: 2.2em;
-    margin-bottom: 0.35em;
+    margin-top: 1.5em;
+    margin-bottom: 0.25em;
     color: $text-color;
     font-size: 1.15em;
     font-weight: 700;
@@ -234,8 +240,9 @@ html {
   }
 
   li {
-    margin-bottom: 0.5em;
-    line-height: 1.75;
+    max-width: 46em; // these are prose, unlike the publication entries
+    margin-bottom: 0.35em;
+    line-height: 1.5;
   }
 }
 
@@ -255,7 +262,7 @@ html {
     color: mix(#000, $gray, 25%);
     font-family: Georgia, "Iowan Old Style", "Times New Roman", serif;
     font-size: 1.05em;
-    line-height: 1.8;
+    line-height: 1.7;
   }
 }
 
@@ -266,25 +273,31 @@ html {
 .page__content {
   /* Section headings: give each top-level section a clear opening. */
   h1 {
-    margin-top: 2.5em;
-    margin-bottom: 0.75em;
-    padding-bottom: 0.3em;
+    margin-top: 1.4em;
+    margin-bottom: 0.5em;
+    padding-bottom: 0.25em;
     border-bottom: 1px solid $border-color;
     font-size: 1.5em;
   }
 
   h1:first-of-type {
-    margin-top: 1.5em;
+    margin-top: 0.9em;
   }
 
   h3 {
-    margin-top: 1.75em;
-    margin-bottom: 0.6em;
+    margin-top: 1.4em;
+    margin-bottom: 0.5em;
+  }
+
+  /* Theme default is 1.3em, against 1rem on the al-folio sites this page is
+     benchmarked to. */
+  p {
+    margin-bottom: 0.85em;
   }
 
   p,
   li {
-    line-height: 1.75;
+    line-height: 1.5;
   }
 
   /* Cap the measure on running prose only. Publication entries and list
