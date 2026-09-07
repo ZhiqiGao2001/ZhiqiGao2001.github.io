@@ -18,7 +18,7 @@ My research takes a data-centric approach to large language models. I am particu
 
 </div>
 
-I also earned my M.S. in Computer Science (2026) and my B.S., both at the University of Wisconsin-Madison, the latter with a double major in Computer Science & Mathematics.
+I also earned my M.S. in Computer Science (2026) and my B.S. (2023), both at the University of Wisconsin-Madison, the latter with a double major in Computer Science & Mathematics.
 
 **I am actively seeking internship opportunities in related fields. Please feel free to reach out to me at zhiqi [at] cs.wisc.edu, or take a look at [my resume](/files/ZhiqiGao_Resume.pdf).**
 
