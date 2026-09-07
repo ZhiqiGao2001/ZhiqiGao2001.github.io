@@ -147,7 +147,7 @@ Daniel J.H. Chung, **Zhiqi Gao**, Yurii Kvasiuk, Tianyi Li, Moritz Münchmeyer, 
 
 Outside of research, I have spent many years studying classical Chinese literature and cultural history.
 
-I have memorized around 500 works of classical Chinese poetry, ci lyric poetry, and prose, and have written over 70 original pieces in traditional forms, including poems, ci, prose, and couplets.
+I have memorized around 500 works of classical Chinese poetry, ci lyric poetry, and prose, and have written over 80 original pieces in traditional forms, including poems, ci, prose, and couplets.
 
 Before moving abroad, I served as a volunteer docent at Zhihua Temple (智化寺) in Beijing, and I am comfortable giving informal guided tours of Beijing's historical sites, such as the Summer Palace and the Forbidden City.
 
