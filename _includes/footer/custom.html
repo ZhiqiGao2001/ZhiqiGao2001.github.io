@@ -1,3 +1,3 @@
 <!-- start custom footer snippets -->
-<span style="font-style: italic;">Last updated in {{ site.time | date: "%B %Y" }}</span>
+<span style="font-style: italic;">Last updated in {% if site.last_updated %}{{ site.last_updated }}{% else %}{{ site.time | date: "%B %Y" }}{% endif %}</span>
 <!-- end custom footer snippets -->

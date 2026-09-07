@@ -15,6 +15,7 @@ description              : &description "PhD student in Computer Science at the 
 url                      : https://ZhiqiGao2001.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ZhiqiGao2001/ZhiqiGao2001.github.io"
+last_updated             : "September 2026" # shown in the footer; bump manually when the site content changes
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.

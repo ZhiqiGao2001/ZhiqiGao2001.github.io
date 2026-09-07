@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student in CS at the University of Wisconsin-Madison, advised by [Professor Frederic Sala](https://pages.cs.wisc.edu/~fredsala/) and a member of the [Sprocket Lab](https://sprocketlab.github.io/).
+I am a fourth-year PhD student in CS at the University of Wisconsin-Madison, advised by [Professor Frederic Sala](https://pages.cs.wisc.edu/~fredsala/) and a member of the [Sprocket Lab](https://sprocketlab.github.io/).
 
 My research takes a data-centric approach to large language models. I am particularly interested in:
 
@@ -18,7 +18,7 @@ My research takes a data-centric approach to large language models. I am particu
 
 </div>
 
-Before that, I earned my B.S., also at the University of Wisconsin-Madison, with a double major in Computer Science & Mathematics.
+I also earned my M.S. in Computer Science (2026) and my B.S., both at the University of Wisconsin-Madison, the latter with a double major in Computer Science & Mathematics.
 
 **I am actively seeking internship opportunities in related fields. Please feel free to reach out to me at zhiqi [at] cs.wisc.edu, or take a look at [my resume](/files/ZhiqiGao_Resume.pdf).**
 
@@ -26,6 +26,7 @@ Before that, I earned my B.S., also at the University of Wisconsin-Madison, with
 
 <div class="news" markdown="1">
 
+- **September 2026** *Fine-Tuning Small Reasoning Models for Quantum Field Theory* accepted to MLST!
 - **July 2026** Two papers accepted to COLM 2026!
 - **May 2026** *Fine-Tuning Small Reasoning Models for Quantum Field Theory* accepted to PAI26.
 
@@ -60,8 +61,8 @@ Nicholas Roberts, Sungjun Cho, **Zhiqi Gao**, Tzu-Heng Huang, Albert Wu, Gabriel
 
 - [Fine-Tuning Small Reasoning Models for Quantum Field Theory](https://arxiv.org/abs/2604.18936)  
 Nathaniel S. Woodward, **Zhiqi Gao**, Yurii Kvasiuk, Kendrick M. Smith, Frederic Sala, Moritz Münchmeyer  
+*MLST (Machine Learning: Science and Technology) 2026*  
 *2026 Conference on Physics and AI (PAI26)*  
-*Under review at MLST (Machine Learning: Science and Technology)*  
 [arXiv](https://arxiv.org/abs/2604.18936){: .pub-link}  [Code](https://github.com/nswood/VerifiableTPData){: .pub-link}  [Dataset](https://huggingface.co/datasets/nswoodward/VerifiableQFT){: .pub-link}
 
 - [Pretrained Hybrids with MAD Skills](https://arxiv.org/abs/2406.00894)  
@@ -112,7 +113,7 @@ Daniel J.H. Chung, **Zhiqi Gao**, Yurii Kvasiuk, Tianyi Li, Moritz Münchmeyer, 
 <p class="entry-meta"><span>Teaching Assistant</span><span>Fall 2024, Spring 2025, Spring 2026</span></p>
 
 ### Comp Sci 300 — Programming II
-<p class="entry-meta"><span>Teaching Assistant</span><span>Fall 2023, Spring 2024</span></p>
+<p class="entry-meta"><span>Teaching Assistant</span><span>Fall 2023, Spring 2024, Fall 2026</span></p>
 
 </div>
 
