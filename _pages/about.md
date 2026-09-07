@@ -28,7 +28,6 @@ I also earned my M.S. in Computer Science (2026) and my B.S., both at the Univer
 
 - **September 2026** *Fine-Tuning Small Reasoning Models for Quantum Field Theory* accepted to MLST!
 - **July 2026** Two papers accepted to COLM 2026!
-- **May 2026** *Fine-Tuning Small Reasoning Models for Quantum Field Theory* accepted to PAI26.
 
 </div>
 
