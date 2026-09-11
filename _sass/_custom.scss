@@ -306,3 +306,64 @@ html {
     max-width: 46em;
   }
 }
+
+/* ==========================================================================
+   Sidebar contact links on narrow screens
+
+   The theme hides the author links behind a "Follow" toggle below the
+   $large breakpoint. Email, CV and Scholar are the point of the sidebar, so
+   show them inline instead and drop the button.
+   ========================================================================== */
+
+.author__urls-wrapper {
+  display: block;
+
+  button {
+    display: none;
+  }
+}
+
+.author__urls {
+  display: block;
+  position: static;
+  margin: 0.4em 0 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  box-shadow: none;
+  z-index: auto;
+
+  &:before,
+  &:after {
+    display: none;
+  }
+
+  @include breakpoint(max-width $large) {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.2em 1.2em;
+
+    li {
+      margin: 0;
+    }
+
+    a {
+      margin: 0;
+      padding: 0;
+    }
+  }
+}
+
+.author__content {
+  @include breakpoint(max-width $large) {
+    display: block;
+    padding: 0;
+  }
+}
+
+.author__avatar {
+  @include breakpoint(max-width $large) {
+    width: 56px;
+    padding-right: 12px;
+  }
+}

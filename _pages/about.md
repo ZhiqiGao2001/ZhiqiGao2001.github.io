@@ -129,14 +129,14 @@ Daniel J.H. Chung, **Zhiqi Gao**, Yurii Kvasiuk, Tianyi Li, Moritz Münchmeyer, 
 **Advisor:** [Professor Andrew Zimmer](https://people.math.wisc.edu/~amzimmer2/).
 {: .entry-note}
 
-- Contributed to the "Tessellations on the Poincaré Half-Plane and Disk" project in the Summer 2022 UW-Madison Research Experiences for Undergraduates (REU) in Analysis funded by the National Science Foundation (NSF). Developed a visualization tool to demonstrate principles of hyperbolic geometry for education purposes, allowing users to generate and explore tessellations on the Poincaré disk and half-plane, aiding students in comprehending complex concepts.  
+- NSF-funded REU in Analysis, UW-Madison, Summer 2022. Built an interactive tool for generating and exploring tessellations of the Poincaré disk and half-plane, used to teach hyperbolic geometry.  
 [Poster PDF](/files/REU_poster.pdf){: .pub-link}
 
 ### Random Walks on Groups
 **Advisor:** [Dr. Nate Fisher](https://sites.google.com/view/natefishermath)
 {: .entry-note}
 
-- Participated in a group project at [Madison Experimental Mathematics Lab](https://mxm.math.wisc.edu/past-semesters/sp22/). Implemented Mathematica simulations to investigate the asymptotic properties of random walks on algebraic structures like $\mathbb{Z}^n$ and the Heisenberg group, quantifying metrics and analyzing their long-term pattern, such as expected travel distance, expectation of hitting time, and distribution of hitting location.  
+- [Madison Experimental Mathematics Lab](https://mxm.math.wisc.edu/past-semesters/sp22/), Spring 2022. Mathematica simulations of random walks on ℤⁿ and the Heisenberg group, measuring expected travel distance, hitting times, and hitting-location distributions.  
 [Poster PDF](/files/MXM_Spring_2022_Poster.pdf){: .pub-link}
 
 </div>
