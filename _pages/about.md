@@ -9,7 +9,7 @@ redirect_from:
 
 I am a fourth-year PhD student in CS at the University of Wisconsin-Madison, advised by [Professor Frederic Sala](https://pages.cs.wisc.edu/~fredsala/) and a member of the [Sprocket Lab](https://sprocketlab.github.io/).
 
-My research takes a data-centric approach to large language models, focusing on:
+My research takes a data-centric approach to large language models (LLMs) and LLM agents, focusing on:
 
 <div class="bio-interests" markdown="1">
 
