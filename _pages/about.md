@@ -47,7 +47,7 @@ above this block to publish. Not emitted into the built page.
 <div class="publications" markdown="1">
 
 ### Conferences & Journals
-- Understanding and Dating LLM-Era Stylistic Changes via the Cohort Deviation Measure  
+- <span class="pub-title">Understanding and Dating LLM-Era Stylistic Changes via the Cohort Deviation Measure</span>  
 **Zhiqi Gao**, Frederic Sala  
 *Under review at NAACL 2027*
 

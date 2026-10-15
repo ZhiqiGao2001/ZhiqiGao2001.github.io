@@ -79,8 +79,10 @@
     line-height: inherit;
   }
 
-  /* Paper title: the only anchor in the entry that is not a badge. */
-  li a:not(.pub-link) {
+  /* Paper title: the only anchor in the entry that is not a badge.
+     .pub-title gives a title with no link yet the same look. */
+  li a:not(.pub-link),
+  li .pub-title {
     display: inline-block;
     margin-bottom: 0.2em;
     color: $text-color;
@@ -93,6 +95,11 @@
       color: $link-color;
       text-decoration: underline;
     }
+  }
+
+  li .pub-title:hover {
+    color: $text-color;
+    text-decoration: none;
   }
 
   /* The author's own name, bolded in the markdown.
