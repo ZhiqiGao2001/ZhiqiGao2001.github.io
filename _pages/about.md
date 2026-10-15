@@ -9,12 +9,12 @@ redirect_from:
 
 I am a fourth-year PhD student in CS at the University of Wisconsin-Madison, advised by [Professor Frederic Sala](https://pages.cs.wisc.edu/~fredsala/) and a member of the [Sprocket Lab](https://sprocketlab.github.io/).
 
-My research takes a data-centric approach to large language models. I am particularly interested in:
+My research takes a data-centric approach to large language models, focusing on:
 
 <div class="bio-interests" markdown="1">
 
-1. improving their capabilities through data selection, curation, and automated agentic data synthesis
-2. evaluating them faithfully through verifiable outcomes and by decomposing complex tasks into distinct skills
+1. evaluating them faithfully through verifiable outcomes, understanding skills, and metric design
+2. improving them through data selection, curation, and data synthesis
 
 </div>
 
@@ -47,6 +47,10 @@ above this block to publish. Not emitted into the built page.
 <div class="publications" markdown="1">
 
 ### Conferences & Journals
+- Understanding and Dating LLM-Era Stylistic Changes via the Cohort Deviation Measure  
+**Zhiqi Gao**, Frederic Sala  
+*Under review at NAACL 2027*
+
 - [Models Can Model, But Can't Bind: Structured Grounding in Text-to-Optimization](https://arxiv.org/abs/2605.21751)  
 **Zhiqi Gao**\*, Albert Ge\*, Alexander Michael Berenbeim, Nathaniel D. Bastian, Frederic Sala  
 *COLM (Conference on Language Modeling) 2026*  
@@ -61,7 +65,7 @@ Nicholas Roberts, Sungjun Cho, **Zhiqi Gao**, Tzu-Heng Huang, Albert Wu, Gabriel
 - [Fine-Tuning Small Reasoning Models for Quantum Field Theory](https://arxiv.org/abs/2604.18936)  
 Nathaniel S. Woodward, **Zhiqi Gao**, Yurii Kvasiuk, Kendrick M. Smith, Frederic Sala, Moritz Münchmeyer  
 *MLST (Machine Learning: Science and Technology) 2026*  
-*2026 Conference on Physics and AI (PAI26)*  
+*PAI (Conference on Physics and AI) 2026*  
 [arXiv](https://arxiv.org/abs/2604.18936){: .pub-link}  [Code](https://github.com/nswood/VerifiableTPData){: .pub-link}  [Dataset](https://huggingface.co/datasets/nswoodward/VerifiableQFT){: .pub-link}
 
 - [Pretrained Hybrids with MAD Skills](https://arxiv.org/abs/2406.00894)  
@@ -99,7 +103,7 @@ Daniel J.H. Chung, **Zhiqi Gao**, Yurii Kvasiuk, Tianyi Li, Moritz Münchmeyer, 
 ### Roblox Corporation
 <p class="entry-meta"><span>Software Engineer Intern, AI/ML Team</span><span>May 2023 – Aug. 2023</span></p>
 
-- Designed, developed, and deployed a full-stack project with a Slack Bot that integrates Vector Database & Large Language Models (LLMs) which can perform complex Q&A based on custom knowledge by Retrieval-Augmented Generation (RAG), resulting in a better solution that outperformed the existing Question Answering Slack Bot within the company.
+- Designed, developed, and deployed a full-stack Slack bot that combines a vector database with large language models (LLMs) to answer complex questions over internal knowledge via retrieval-augmented generation (RAG), outperforming the company's existing Q&A Slack bot.
 - Created an efficient data pipeline, ingesting diverse documents (Confluence, Stack Overflow, GitHub) and generating vector embeddings for rapid retrieval.
 
 </div>
